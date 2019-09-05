@@ -1,3 +1,3 @@
 # datalakegen2getacl
 
-Powershell script to analyse the ACLs of a Azure Storage Account Gen 2 and get the group names based on the guid
+Powershell script to get all the group names and guid in the ACLs of an Azure Storage Account Gen 2 Datalake
